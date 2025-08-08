@@ -57,7 +57,7 @@ I'm not sure if how I've written it is the best way to do this though, or whethe
 
 ### Synchronicity
 
-When you take a move action to move, you can command your eidolon to take one of the following actions as a free action:
+When you take a move action to move, you can, as a free action, command a creature you have summoned to take one of the following actions:
 crawl, escape, run, stand up, shift, squeeze, or walk.
 
 ### Mystic Keystone
