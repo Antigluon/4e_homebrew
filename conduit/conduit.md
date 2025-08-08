@@ -74,7 +74,7 @@ You gain the following features.
 - **Forceful Leap**: You are trained in Athletics, and are always considered to have a running start when jumping.
 - **Inexorable Pull**: You gain the Inexorable Pull power.
 
-**Inexorable Pull** | **Keystone of Might Power**
+**Inexorable Pull** | **Keystone of Might Power**  
 _flavor text_  
 **Encounter** <> **Arcane**  
 **Free Action** | **Close** burst 3 centered on the triggering summon  
